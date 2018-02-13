@@ -1,0 +1,3 @@
+/home/nina/CLionProjects/chm_3_2_15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nina/CLionProjects/chm_3_2_15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nina/CLionProjects/chm_3_2_15/cmake-build-debug/CMakeFiles/chm_3_2_15.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nina/CLionProjects/chm_3_2_15/main.cpp
+cmath
+-
+cstdio
+-
+cstdlib
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+

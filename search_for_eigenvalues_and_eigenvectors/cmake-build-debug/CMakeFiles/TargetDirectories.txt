@@ -1,0 +1,3 @@
+/home/nina/CLionProjects/chm3_1_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nina/CLionProjects/chm3_1_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nina/CLionProjects/chm3_1_11/cmake-build-debug/CMakeFiles/chm3_1_11.dir
